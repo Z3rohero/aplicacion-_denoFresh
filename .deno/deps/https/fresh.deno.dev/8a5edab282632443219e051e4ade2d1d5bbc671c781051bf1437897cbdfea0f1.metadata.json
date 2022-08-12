@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "location": "https://deno.land/x/fresh@1.0.2/init.ts",
+    "server": "deno/us-east1-c",
+    "date": "Fri, 12 Aug 2022 17:45:25 GMT",
+    "vary": "Accept-Encoding",
+    "content-type": "text/plain;charset=UTF-8"
+  },
+  "url": "https://fresh.deno.dev/",
+  "now": {
+    "secs_since_epoch": 1660326325,
+    "nanos_since_epoch": 87389925
+  }
+}
